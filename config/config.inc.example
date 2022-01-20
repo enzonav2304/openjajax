@@ -1,0 +1,7 @@
+<?
+/* db config */
+$db_server = "sql.xdomain.it";
+$db_user = "xdomaini09636";
+$db_password = "cygnx1";
+$db_name = "xdomaini09636";
+?>
